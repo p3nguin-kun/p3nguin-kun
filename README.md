@@ -1,37 +1,31 @@
-# 🌟 P3NGUIN-KUN 🌟
+<h1 align="center">Hi 👋, I'm Khanh Hien Hoang (p3nguin-kun,kh4nhhi3n)</h1>
+<h3 align="center">I'm a student, a programmer, an osu! or rhythm games player and a tech enthusiast. I've loved computers and technology since I was a kid.</h3>
 
-#### Hi! I'm Khanh Hien (p3nguin-kun, kh4nhhi3n, ...). I'm a student, a programmer, an osu! or rhythm games player and a tech enthusiast. I've loved computers and technology since I was a kid.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=p3nguin-kun&label=Profile%20views&color=0e75b6&style=flat" alt="p3nguin-kun" /> </p>
 
-## Contacts:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p3nguin-kun" alt="p3nguin-kun" /></a> </p>
 
-- 📧 Email: kh4nhhi3n@hotmail.com
+- 🎂 Birthday: **May 7 200x**
 
-- 🐈‍⬛ GitHub: [p3nguin-kun](https://github.com/p3nguin-kun)
+- 📝 I regularly write blogs on [https://p3nguinkun.blogspot.com](https://p3nguinkun.blogspot.com)
 
-- 📘 Facebook: [Khanh Hien Hoang](https://www.facebook.com/kh4nhhi3n)
+- ♂️ Gender: **Male**
 
-- 🐦 Twitter: [@p3nguin_kun](https://twitter.com/p3nguin_kun)
+- 📫 My email: **kh4nhhi3n@hotmail.com**
 
-- .🧑‍🎓 Reddit: [u/kh4nhhi3n](https://reddit.com/u/kh4nhhi3n)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/p3nguin_kun." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="p3nguin_kun." height="30" width="40" /></a>
+<a href="https://fb.com/kh4nhhi3n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kh4nhhi3n" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/yzn442FGuZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/yzn442FGuZ" height="30" width="40" /></a>
+</p>
 
-- ▶️ YouTube: [kh4nhhi3n](https://youtube.com/@p3nguin-kun)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- 💭 Discord: [my discord server](https://discord.gg/yzn442FGuZ)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p3nguin-kun&show_icons=true&locale=en&layout=compact" alt="p3nguin-kun" /></p>
 
-## Personal details
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p3nguin-kun&show_icons=true&locale=en" alt="p3nguin-kun" /></p>
 
-- 🎂 Birthday: 05/07/200x
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p3nguin-kun&" alt="p3nguin-kun" /></p>
 
-- ♂️ Gender: Male
-
-- 🏳️ Nationality: Vietnamese
-
-- 🏳️ Language: English | Vietnamese | ...
-
-- 📍 From: Lao Cai, Vietnam
-
-- 🎯 Hobbies: Playing with computers and phones | Collecting old computers and phones | Playing games | Reading books, manga | Watching anime | …
-
-- 💿 My favorite OSes: Endeavour OS | Arch Linux | Fedora | Android | Windows (7, 10) | Tails | …
-
-- 🎮 My favorite games: osu! | Cytus | Project Sekai: Colorful Stage | CS:GO | LOL | Minecraft | Roblox | …
