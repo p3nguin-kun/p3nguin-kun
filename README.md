@@ -13,9 +13,11 @@
 
 - 🏳️ Nationality: **Vietnamese**
 
-- 🏳️ Language: **English, Vietnamese, ...**
+- 🏳️ Language: **English | Vietnamese | ...**
 
-- 🎯 Hobbies: Playing with computers and phones, Collecting old computers and phones, Playing games, Reading books, manga, Watching anime, …
+- 🎯 Hobbies: Playing with computers and phones | Collecting old computers and phones | Playing games | Reading books, manga | Watching anime | …
+- 💿 My favorite OSes: Endeavour OS | Arch Linux | Fedora | Android | Windows (7, 10) | Tails | …
+- 🎮 My favorite games: osu! | Tetris | Cytus | Project Sekai: Colorful Stage | CS:GO | LOL | Minecraft | Roblox | …
 
 - 📝 I regularly write blogs on [https://p3nguinkun.blogspot.com](https://p3nguinkun.blogspot.com)
 
