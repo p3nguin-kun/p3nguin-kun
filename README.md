@@ -1,6 +1,6 @@
 # P3NGUIN-KUN
 
-#### Hi! I'm Khanh Hien (p3nguin-kun, kh4nhhi3n, ...). I'm a student, but i love tech and i can code too. I've loved computers and technology since I was a kid. 
+#### Hi! I'm Khanh Hien (p3nguin-kun, kh4nhhi3n, ...). I'm a student, a programmer, an osu! or rhythm games player and a tech enthusiast. I've loved computers and technology since I was a kid.
 
 ## Contacts:
 
