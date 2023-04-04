@@ -7,9 +7,17 @@
 
 - 🎂 Birthday: **May 7 200x**
 
-- 📝 I regularly write blogs on [https://p3nguinkun.blogspot.com](https://p3nguinkun.blogspot.com)
+
 
 - ♂️ Gender: **Male**
+
+- 🏳️ Nationality: **Vietnamese**
+
+- 🏳️ Language: **English, Vietnamese, ...**
+
+- 🎯 Hobbies: Playing with computers and phones, Collecting old computers and phones, Playing games, Reading books, manga, Watching anime, …
+
+- 📝 I regularly write blogs on [https://p3nguinkun.blogspot.com](https://p3nguinkun.blogspot.com)
 
 - 📫 My email: **kh4nhhi3n@hotmail.com**
 
