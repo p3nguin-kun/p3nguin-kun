@@ -26,6 +26,7 @@
 <a href="https://twitter.com/p3nguin_kun." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="p3nguin_kun." height="30" width="40" /></a>
 <a href="https://fb.com/kh4nhhi3n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kh4nhhi3n" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/yzn442FGuZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/yzn442FGuZ" height="30" width="40" /></a>
+<a href="https://reddit.com/u/kh4nhhi3n" target="blank"><img align="center" src="https://www.svgrepo.com/show/14413/reddit.svg" alt="https://reddit.com/u/kh4nhhi3n" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
