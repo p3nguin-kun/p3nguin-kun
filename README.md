@@ -5,23 +5,26 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p3nguin-kun" alt="p3nguin-kun" /></a> </p>
 
-- 🎂 ***Birthday***: **May 7 200x**
+- 🎂 ***Birthday***: May 7 200x
 
 
 
-- ♂️ ***Gender***: **Male**
+- ♂️ ***Gender***: Male
 
-- 🏳️ ***Nationality***: **Vietnamese**
+- 🏳️ ***Nationality***: Vietnamese
 
-- 🏳️ ***Language***: **English | Vietnamese | ...**
+- 🏳️ ***Language***: English | Vietnamese | ...
 
-- 🎯 ***Hobbies***: **Playing with computers and phones | Collecting old computers and phones | Playing games | Reading books, manga | Watching anime | …**
-- 💿 ***My favorite OSes***: **Arch Linux | Android | Windows (7, 10) |...**
-- 🎮 ***My favorite games***: **osu! | Tetris | Cytus | Project Sekai: Colorful Stage | CS:GO | LOL | Minecraft | Roblox | …**
+- 🎯 ***Hobbies***: Playing with computers and phones | Collecting old computers and phones | Playing games | Reading books, manga | Watching anime | …
 
-- 📝 ***I regularly write blogs on***: **[https://p3nguinkun.blogspot.com](https://p3nguinkun.blogspot.com)**
+- 💿 ***My favorite OSes***: Arch Linux | Android | Windows (7, 10) |...
 
-- ***📫 My email***: **kh4nhhi3n@hotmail.com**
+- 🎮 ***My favorite games***: osu! | Tetris | Cytus | Project Sekai: Colorful Stage | CS:GO | LOL | Minecraft | Roblox | …
+
+- 📝 ***I regularly write blogs on***: 
+[https://p3nguinkun.blogspot.com](https://p3nguinkun.blogspot.com)
+
+- ***📫 My email***: kh4nhhi3n@hotmail.com
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
