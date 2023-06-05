@@ -9,9 +9,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=p3nguin-kun&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/p3nguin-kun">
-  <img align="center" src="https://streak-stats.demolab.com?user=p3nguin-kun&theme=onedark&border_radius=0" />
-</a>
-<a href="https://github.com/p3nguin-kun">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3nguin-kun&layout=compact&theme=onedark" />
 </a>
 
