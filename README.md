@@ -5,13 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p3nguin-kun&theme=onedark" alt="p3nguin-kun" /></a> </p>
 
-<a href="https://github.com/p3nguin-kun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=p3nguin-kun&show_icons=true&theme=onedark" />
-</a>
-<a href="https://github.com/p3nguin-kun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3nguin-kun&layout=compact&theme=onedark" />
-</a>
-
 <h3 align="center">About me:</h3>
 
 - 🎂 ***Birthday***: May 7 200x
