@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm p3nguin-kun (kh4nhhi3n)</h1>
 <h3 align="center">I'm a student, a programmer, an osu! or rhythm games player and a tech enthusiast. I've loved computers and technology since I was a kid.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=p3nguin-kun&label=Profile%20views&color=0e75b6&style=flat" alt="p3nguin-kun" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p3nguin-kun&theme=onedark" alt="p3nguin-kun" /></a> </p>
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://fb.com/kh4nhhi3n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kh4nhhi3n" height="30" width="40" /></a>
