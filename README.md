@@ -1,3 +1,6 @@
+# i dont use github anymore, pls switch to codeberg
+https://codeberg.org/p3nguin-kun
+
 <h1 align="center">Hi 👋, I'm p3nguin-kun (kh4nhhi3n)</h1>
 <h3 align="center">I'm a student, a programmer, an osu! or rhythm games player and a tech enthusiast. I've loved computers and technology since I was a kid.</h3>
 
