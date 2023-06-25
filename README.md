@@ -1,14 +1,13 @@
 # i dont use github anymore, pls switch to codeberg
-https://codeberg.org/p3nguin-kun
+https://codeberg.org/miyamura01
 
-<h1 align="center">Hi 👋, I'm p3nguin-kun (kh4nhhi3n)</h1>
+<h1 align="center">Hi 👋, I'm miyamura01 (p3nguin-kun, kh4nhhi3n, ...)</h1>
 <h3 align="center">I'm a student, a programmer, an osu! or rhythm games player and a tech enthusiast. I've loved computers and technology since I was a kid.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://fb.com/kh4nhhi3n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kh4nhhi3n" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/yzn442FGuZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/yzn442FGuZ" height="30" width="40" /></a>
-<a href="https://reddit.com/u/kh4nhhi3n" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Reddit/Reddit-Social-Icon-Variant-Logo.wine.svg" alt="https://reddit.com/u/kh4nhhi3n" height="30" width="40" /></a><a href ="https://www.youtube.com/@p3nguin-kun" target="blank"><img align="center" src="https://icon-library.com/images/youtube-icon-svg/youtube-icon-svg-23.jpg" alt="https://www.youtube.com/@p3nguin-kun" height="30" width="30" /></a>
+<a href="https://reddit.com/u/kh4nhhi3n" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Reddit/Reddit-Social-Icon-Variant-Logo.wine.svg" alt="https://reddit.com/u/kh4nhhi3n" height="30" width="40" /></a><a href ="https://www.youtube.com/@miyamura_01" target="blank"><img align="center" src="https://icon-library.com/images/youtube-icon-svg/youtube-icon-svg-23.jpg" alt="https://www.youtube.com/@p3nguin-kun" height="30" width="30" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
