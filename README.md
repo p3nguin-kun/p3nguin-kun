@@ -12,7 +12,8 @@
 
 <h3 align="center">Stats:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p3nguin-kun&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=p3nguin-kun&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=p3nguin-kun&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p3nguin-kun&layout=compact&theme=transparent)
 
 
 
